@@ -16,7 +16,9 @@ class QuickSort {
     }
     
     void quicksort(int[] nums, int p, int q) {
-        
+        if (p < r) {
+            q = 
+        }
     }
     
 }
